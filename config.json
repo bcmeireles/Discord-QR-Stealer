@@ -7,11 +7,13 @@
     },
     "discord":{
         "qr_class":"qrCode-2R7t9S",
-        "webhook_url":"",
+        "logs_webhook_url":"",
+        "generated_webhook_url":"",
         "weebhook_username":"",
         "weebhook_avatar":""
     },
-    "chromedriver":{
+    "webdriver":{
+        "model":"chromedriver",
         "path":"/usr/bin/chromedriver"
     }
 }
