@@ -47,3 +47,6 @@ try:
     
     print("logged")
     input()
+
+except TimeoutException:
+    print("Timed out waiting for page to load") 
