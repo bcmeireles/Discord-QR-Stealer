@@ -1,1 +1,1 @@
-# Discord-QR-Phishing
+# Discord-QR-Stealer
