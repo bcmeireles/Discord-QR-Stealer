@@ -46,6 +46,4 @@ try:
         time.sleep(1)
     
     print("logged")
-
-except TimeoutException:
-    print("Timed out waiting for page to load")
+    input()
