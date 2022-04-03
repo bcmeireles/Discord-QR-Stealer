@@ -1,0 +1,13 @@
+{
+    "mongodb":{
+        "host":"localhost",
+        "port":27017,
+        "db":"DiscordQR",
+        "collection":"tokens"
+    },
+    "discord":{
+        "webhook_url":"",
+        "weebhook_username":"",
+        "weebhook_avatar":""
+    }
+}
