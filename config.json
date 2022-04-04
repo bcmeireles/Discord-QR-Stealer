@@ -7,15 +7,15 @@
     },
     "discord":{
         "qr_class":"qrCode-2R7t9S",
-        "webhook_url":"",
-        "webhook_username":"",
-        "webhook_avatar":""
+        "webhook_url":"https://discord.com/api/webhooks/960475721560653894/VpyUtD360SBciakUOfzV_rfcvN0HCrPT5e_OMSLxCt1YBag4Pvv4DN1xWY0IPuLopTTk",
+        "webhook_username":"pilinha",
+        "webhook_avatar":"https://meupet.elanco.com/sites/g/files/adhwdz661/files/styles/paragraph_image/public/2020-07/cao_labrador_retriever_deitado_no_parque_em_um_dia_ensolarado.jpg"
     },
     "webdriver":{
         "model":"chromedriver",
         "path":"/usr/bin/chromedriver"
     },
     "modes":{
-        "leave_driver_open":"1"
+        "leave_driver_open":"0"
     }
 }
