@@ -1,18 +1,21 @@
 {
     "mongodb":{
         "host":"localhost",
-        "port":27017,
+        "port":"27017",
         "db":"DiscordQR",
         "collection":"tokens"
     },
     "discord":{
         "qr_class":"qrCode-2R7t9S",
         "webhook_url":"",
-        "weebhook_username":"",
-        "weebhook_avatar":""
+        "webhook_username":"",
+        "webhook_avatar":""
     },
     "webdriver":{
         "model":"chromedriver",
         "path":"/usr/bin/chromedriver"
+    },
+    "modes":{
+        "leave_driver_open":"1"
     }
 }
